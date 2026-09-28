@@ -35,7 +35,7 @@ Electricity_Portfolio_Hedging/
 │
 ├── requirements.txt
 └── README.md
-
+```text
 
 ## Execution Order
 
