@@ -1,0 +1,5 @@
+Settlement Sign,Intervals,Net Imbalance MWh,Settlement EUR
+"Long volume, negative reBAP: cost",3370,-81.40070808000081,7668.855208295816
+"Long volume, positive reBAP: credit",12545,-272.5825097700006,-34729.7735027022
+"Short volume, negative reBAP: credit",3592,85.06763318000003,-5881.591720253801
+"Short volume, positive reBAP: cost",15629,406.9155838599999,63446.349777424184

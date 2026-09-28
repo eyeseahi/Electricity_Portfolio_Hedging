@@ -1,0 +1,10 @@
+Check,Observed,Expected,Passed
+Aligned quarter-hour rows,35136,35136,True
+No missing analytical values,0,0,True
+Forecast portfolio reconciliation,43000.0,43000.0,True
+DST-aware local day counts,"[92, 96, 100]","[92, 96, 100]",True
+Non-negative futures positions,1.5412141592668436,>= 0,True
+Stage 4 cost representations reconcile,0.0,< 1e-6 EUR,True
+Stage 5 cost representations reconcile,4.656612873077393e-10,< 1e-6 EUR,True
+Imbalance settlement identical across strategies,1,1,True
+All Results outputs exist,7,7,True

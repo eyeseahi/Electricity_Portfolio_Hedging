@@ -1,0 +1,6 @@
+Check,Observed,Expected,Passed
+Aligned quarter-hour rows,35136.0,35136,True
+Interval final costs reconcile to Stage 5 summary,4.656612873077393e-10,< 1e-6 EUR,True
+Monthly procurement prices available for all 12 months,12.0,12,True
+Severe event is annual Day-Ahead maximum,936.28,936.28,True
+All Results outputs exist,6.0,6,True

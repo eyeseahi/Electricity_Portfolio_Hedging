@@ -1,0 +1,3 @@
+Perspective,Evidence,COARSE_CAL,GRANULAR,Interpretation
+Ex ante hedge design,Residual DA volume / residual-load RMSE,12760.13 MWh / 0.4417 MWh,11985.15 MWh / 0.4213 MWh,GRANULAR matches forecast load more closely
+Ex post 2024 backtest,Final cost / monthly price standard deviation,"EUR 3,481,470.48 / 2.43 EUR/MWh","EUR 3,482,011.18 / 18.56 EUR/MWh",COARSE_CAL realised lower cost and greater cost stability
