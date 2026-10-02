@@ -28,10 +28,14 @@ Electricity_Portfolio_Hedging/
 ├── Data/
 │   └── project input CSV files
 │
+├── Docs/
+│   └── Electricity_Portfolio_Hedging_Report.pdf
+│
 ├── Results/
 │   └── generated tables and figures
 │
-├── Docs/
+├── .gitattributes (ignore)
+├── .gitignore (ignore)
 │
 ├── requirements.txt
 └── README.md
